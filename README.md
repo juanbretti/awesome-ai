@@ -60,7 +60,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Fuzzy AI](https://fuzzy.ai/) — adds intelligent decision making to web and mobile apps
 * [Logz.io](http://logz.io/) — helps you index, search, visualise and analyse your data
 * [NXT AI](https://nxt.ai) — is a framework for temporal pattern recognition and prediction
-* [Paxata](http://www.paxata.com/)] — to transform raw data into useful information automatically
+* [Paxata](http://www.paxata.com/) — to transform raw data into useful information automatically
 * [Poweredby.ai](https://poweredby.ai/) — helps you monitor server bugs
 * [Sundown](https://www.sundown.ai/home/) — automates repetitive tasks within your business
 * [UBIX](http://ubix.ai/#dynamic) — making complex data science easy for enterprise
